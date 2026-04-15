@@ -115,9 +115,9 @@ Then open http://localhost:8000/web/index.html in your browser!
 
 <!-- MONKEY_STATS_START -->
 - **Generation**: 1
-- **Age**: 135 days
-- **Mutations**: 79
-- **Rarity Score**: 65.0/100
+- **Age**: 136 days
+- **Mutations**: 81
+- **Rarity Score**: 63.3/100
 <!-- MONKEY_STATS_END -->
 
 ## Family Tree
