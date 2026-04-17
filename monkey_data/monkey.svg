@@ -50,7 +50,7 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="url(#rift-gradient)"/>
-
+<circle cx="200" cy="200" r="180" fill="url(#multiverse-gradient)" opacity="0.15"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#E0FFFF" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
@@ -77,8 +77,8 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
-<rect x="142" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><rect x="220" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><line x1="180" y1="189" x2="220" y2="189" stroke="#000" stroke-width="3"/><line x1="142" y1="189" x2="120" y2="180" stroke="#000" stroke-width="2"/><line x1="258" y1="189" x2="280" y2="180" stroke="#000" stroke-width="2"/>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="226" cy="234" r="3" fill="#FFD700" opacity="0.6"/><circle cx="152" cy="168" r="3" fill="#FFD700" opacity="0.6"/><circle cx="278" cy="102" r="3" fill="#FFD700" opacity="0.6"/><circle cx="204" cy="236" r="3" fill="#FFD700" opacity="0.6"/><circle cx="130" cy="170" r="3" fill="#FFD700" opacity="0.6"/><circle cx="256" cy="104" r="3" fill="#FFD700" opacity="0.6"/><circle cx="182" cy="238" r="3" fill="#FFD700" opacity="0.6"/><circle cx="108" cy="172" r="3" fill="#FFD700" opacity="0.6"/><circle cx="234" cy="106" r="3" fill="#FFD700" opacity="0.6"/><circle cx="160" cy="240" r="3" fill="#FFD700" opacity="0.6"/><circle cx="286" cy="174" r="3" fill="#FFD700" opacity="0.6"/>
+<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<circle cx="200" cy="200" r="145" fill="none" stroke="#FFD700" stroke-width="4" opacity="0.4" filter="url(#glow)"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#9370DB" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">RARE</text>
