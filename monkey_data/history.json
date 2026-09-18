@@ -4655,6 +4655,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2026-09-18T04:23:03.531500",
+      "dna_hash": "f7ec1a6cc814a160",
+      "generation": 1,
+      "mutation_count": 170,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "wise",
+        "accessory": "golden_crown",
+        "pattern": "void",
+        "background": "heaven",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved randomly!"
     }
   ]
 }
