@@ -1,8 +1,8 @@
 {
-  "dna_hash": "c6381d9451b6ce8a",
+  "dna_hash": "bc832f1b56c1d979",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 209,
+  "mutation_count": 210,
   "rarity_score": 46.666666666666664,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "bandana",
+      "value": "simple_hat",
       "rarity": "common"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-11-21T06:48:52.787399"
+  "last_updated": "2026-11-22T06:21:11.257120"
 }
